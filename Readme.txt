@@ -1,6 +1,6 @@
 Au vu de la taille du projet celui-ci est fourni via une archive mais si vous le souhaitez vous pouvez le prendre de git:
 
-
+https://github.com/chaosiir/testtechnique
 
 Pour installer  les dependances, extraire les fichier puis aller dans chaque repertoire (client et serveur)avec une console de commande et lancer :
 
